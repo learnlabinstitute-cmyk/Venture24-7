@@ -1,0 +1,10 @@
+{
+  "name": "Venture Infotech Support 24 Calling IVR",
+  "description": "24/7 AI-powered Calling IVR & Customer Support Operations system with Executive Isha handling plan verification (Silver, Gold, Platinum), sales promises vs reality, 48-hr ad testing window, backup execution plan, objection & abusive call handling, and policy enforcement.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
